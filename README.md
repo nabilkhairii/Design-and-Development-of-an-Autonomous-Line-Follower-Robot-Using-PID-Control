@@ -1,0 +1,2 @@
+# Design-and-Development-of-an-Autonomous-Line-Follower-Robot-Using-PID-Control
+The project output is a high performance line follower robot that demonstrates fast, stable, and precise motion control. This project can be applied in learning platforms for control systems, mobile robotics, embedded systems, and as a foundation for autonomous robot development in industrial automation and robotics competitions.
